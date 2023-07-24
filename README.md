@@ -39,8 +39,9 @@ Tableau
 
 
 ## Methodology:
+
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data. 
-Add separate charts here
+
 
 ## NETFLIX ANALYSIS DASHBOARD:
 * The User can search the movies,Tv show and he/she will get rating, duration, genre, release date, added date and Description about it.
@@ -50,11 +51,11 @@ Add separate charts here
 * Netflix has major presence in United states and India. Its focus has shifted recently towards TV shows which was previously on movies. More TV shows released than movies.
 
 ## Key Findings:
-Movies Vs Tv Shows By year:Netflix platform even has the content which was originally released in 1965. For a better visual I have only displayed the  year 2019. We observe that initially the percentage of movies is higher than TV shows . Total no. of movies 1546 and Tv Shows 803 watched by people in 2019.
+Movies Vs Tv Shows By year: Netflix platform even has the content which was originally released in 1965. For a better visual I have only displayed the  year 2019. We observe that initially the percentage of movies is higher than TV shows . Total no. of movies 1546 and Tv Shows 803 watched by people in 2019.
 
-Total Movies and Tv Shows By Country:United states has most total releases ( both movies and TV shows) followed by India and United Kingdom. The Color in Dark refers higher count.  Total no. of movie and shows in US – 1482, India – 724 and  UK – 170.
+Total Movies and Tv Shows By Country: United states has most total releases ( both movies and TV shows) followed by India and United Kingdom. The Color in Dark refers higher count.  Total no. of movie and shows in US – 1482, India – 724 and  UK – 170.
 
-Top 10 Genres in Movies vs Tv shows:Movies and Tv shows are predominantly focused on Documentaries, Stand-up Comedy and Dramas, International movies. You can see below the top 10 genres in each category with the count of shows. 
+Top 10 Genres in Movies vs Tv shows: Movies and Tv shows are predominantly focused on Documentaries, Stand-up Comedy and Dramas, International movies. You can see below the top 10 genres in each category with the count of shows. 
 
 Show wise Ratings:Ratings are more on TV-MA and TV-14. No. of shows in TV-MA is 2027 and TV-14 is 1698.
 
