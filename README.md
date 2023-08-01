@@ -7,17 +7,20 @@ Netflix image
 
 Links
 
-Lets connect 
+Let us connect 
 
-Go to linkedin
+Go to LinkedIn
 
-Go to my dashboard: https://public.tableau.com/views/NetflixDB_16779955321770/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+www.linkedin.com/in/saranya-data-analyst
 
-## PROJECT NAME:
-Netflix Data analysis
+Go to my dashboard:
+
+https://public.tableau.com/views/NetflixDB_16779955321770/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Technologies Used:
+
 Advance Excel
+
 Tableau
 
 ## Steps:
